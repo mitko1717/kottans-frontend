@@ -99,3 +99,42 @@ i’ve got useful info about:
 <img width="1035" alt="quiz 4" src="https://user-images.githubusercontent.com/62745604/97493175-408c5380-196d-11eb-95f7-24a848d567a0.png">
 
 </details>
+
+## Git Collaboration
+
+### GitHub & Collaboration
+
+In this course i got useful knowledges about working with remote repositories. And important was info about how to create Pull Request.
+
+<details>
+  <summary>
+    Screenshot of course of GitHub & Collaboration
+  </summary>
+ 
+<img width="973" alt="Screen Shot 2020-10-29 at 11 19 27 PM" src="https://user-images.githubusercontent.com/62745604/97666788-0adb8d80-1a87-11eb-9326-41a56f827705.png">
+
+</details>
+
+### Important commands:
+
+- **git remote** manage a remote repository
+- **git remote add**  is used to add a connection to a new remote repository.
+- **git remote -v** is used to see the details about a connection to a remote.
+- **git fetch** retrieves the commits
+- **git fork** to duplicate
+- **git shortlog** how many commits each contributor has added to the repository
+- **git shortlog -s -n**
+- ***git log --grep=<filter>*** 
+ 
+ The levels **Main: Ramping Up, Moving Work Around** & **Remote: To Origin and Beyond** were not easy, but very helpful.
+
+<details>
+  <summary>
+    Screenshots of lessons in learngitbranching.js.org
+  </summary>
+ 
+<img width="892" alt="Screen Shot 2020-10-29 at 11 35 14 PM" src="https://user-images.githubusercontent.com/62745604/97666779-07480680-1a87-11eb-94b9-6d33c518be6b.png">
+<img width="896" alt="Screen Shot 2020-10-30 at 8 04 44 AM" src="https://user-images.githubusercontent.com/62745604/97666785-09aa6080-1a87-11eb-89e4-828cbbaed61a.png">
+
+</details>
+
