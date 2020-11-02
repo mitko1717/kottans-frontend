@@ -138,3 +138,36 @@ In this course i got useful knowledges about working with remote repositories. A
 
 </details>
 
+## Intro to HTML and CSS
+
+I knew HTML and CSS before, but it was good to repeat some things. 
+
+And the main discovery for me in this stage it's CSS Grid. It's impressed me. I wanna learn it deeper.
+
+
+<details>
+  <summary>
+    Screenshots of Intro to HTML & CSS (udacity.com)
+  </summary>
+ 
+<img width="956" alt="Screen Shot 2020-10-30 at 9 04 26 PM" src="https://user-images.githubusercontent.com/62745604/97913512-0f3dca00-1d57-11eb-8caa-dfad7f3ccba4.png">
+
+</details>
+
+<details>
+  <summary>
+    Screenshots of Learn HTML
+  </summary>
+ 
+<img width="926" alt="Screen Shot 2020-10-31 at 6 42 56 PM" src="https://user-images.githubusercontent.com/62745604/97913605-372d2d80-1d57-11eb-9bd7-27febc5d68c9.png">
+
+</details>
+
+<details>
+  <summary>
+    Screenshots of Learn CSS
+  </summary>
+ 
+<img width="926" alt="Screen Shot 2020-11-02 at 9 55 30 PM" src="https://user-images.githubusercontent.com/62745604/97913619-3bf1e180-1d57-11eb-9f76-abc9d77d89a8.png">
+
+</details>
