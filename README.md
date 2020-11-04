@@ -171,3 +171,25 @@ And the main discovery for me in this stage it's CSS Grid. It's impressed me. I 
 <img width="926" alt="Screen Shot 2020-11-02 at 9 55 30 PM" src="https://user-images.githubusercontent.com/62745604/97913619-3bf1e180-1d57-11eb-9f76-abc9d77d89a8.png">
 
 </details>
+
+## Responsive Web Design
+
+I refreshed my knowledge and got some new useful information about responsive design. Also a played in Froggy already, but it was coll to repeat!
+
+<details>
+  <summary>
+    Responsive Web Design Fundamentals
+  </summary>
+ 
+<img width="965" alt="Screen Shot 2020-11-04 at 9 51 43 PM" src="https://user-images.githubusercontent.com/62745604/98161813-0a108480-1ee9-11eb-85e0-c343faa928ae.png">
+
+</details>
+
+<details>
+  <summary>
+    Flexbox Froggy
+  </summary>
+ 
+<img width="838" alt="Screen Shot 2020-11-03 at 10 16 36 PM" src="https://user-images.githubusercontent.com/62745604/98161824-0d0b7500-1ee9-11eb-8736-333de2a6f841.png">
+
+</details>
