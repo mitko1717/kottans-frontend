@@ -193,3 +193,24 @@ I refreshed my knowledge and got some new useful information about responsive de
 <img width="838" alt="Screen Shot 2020-11-03 at 10 16 36 PM" src="https://user-images.githubusercontent.com/62745604/98161824-0d0b7500-1ee9-11eb-8736-333de2a6f841.png">
 
 </details>
+
+## JS Basics
+
+I was very happy that deadline was posponed. it gave me opportunity to dive deep into the study of JS in this Stage. i had some knowladges about JS, but it was really small. i didnt hurry up, and leart JS step by step, so it was very useful for me.
+
+<details>
+  <summary>
+    Intro to JS in Udacity
+  </summary>
+ 
+<img width="658" alt="Screen Shot 2020-11-17 at 10 23 13 PM" src="https://user-images.githubusercontent.com/62745604/100146570-ca630a00-2ea2-11eb-8f34-cebdd72102cf.png">
+
+</details>
+
+<details>
+  <summary>
+    FreeCodeCamp exercises
+  </summary>
+ 
+<img width="968" alt="Screen Shot 2020-11-24 at 10 13 50 PM" src="https://user-images.githubusercontent.com/62745604/100146579-cdf69100-2ea2-11eb-9a8d-4884e77697d5.png">
+</details>
